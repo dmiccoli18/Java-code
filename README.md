@@ -4,3 +4,5 @@ HitOrMiss: based on the gamewright tabletop game of the same name, players take 
 they roll a die, and they either have to find matching or unique items on other players list to score points. whoever has the most points after the round wins.
 
 Project1: A simple project I made in undergrad, it acts as connect4 that can be played in IntelliJ IDEA
+
+WufferBot (coming soon): I made the backend of a bot that works on Telegram for a variety of uses. This is a constantly updating and changing project
