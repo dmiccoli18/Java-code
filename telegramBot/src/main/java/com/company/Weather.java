@@ -26,7 +26,7 @@ public class Weather {
         String startDate="next3days"; //optional (omit for forecast)
         String endDate=null; //optional (requires a startDate if present)
         String unitGroup="us"; //us,metric,uk
-        String apiKey="6EUE539ELNQPB57UN8Q2ZVCLL";
+        String apiKey="<api key>";
 
         //Build the URL pieces
         StringBuilder requestBuilder=new StringBuilder(apiEndPoint);

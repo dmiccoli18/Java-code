@@ -67,8 +67,5 @@ public class StickerBot {
         }
         IF = new InputFile().setMedia(instream,"Sticker");
         }
-
-
-        //GF = "https://api.telegram.org/7323205828:AAGzk1xM1cmK_OlftV26MIuseKbBFwpXflc/sendSticker?chat_id=933413002&sticker=CAADAgADOQADfyesDlKEqOOd72VKAg";
     }
 }
