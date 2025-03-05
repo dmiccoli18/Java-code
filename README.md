@@ -5,4 +5,4 @@ they roll a die, and they either have to find matching or unique items on other 
 
 Project1: A simple project I made in undergrad, it acts as connect4 that can be played in IntelliJ IDEA
 
-WufferBot (coming soon): I made the backend of a bot that works on Telegram for a variety of uses. This is a constantly updating and changing project
+WufferBot (coming soon): I made a bot that works on Telegram for a variety of uses, both fun and useful. the bot itself does not run due to the scrubbing of sensitive information for public release (like telegram ID and bot token) but runs when said information is added.
